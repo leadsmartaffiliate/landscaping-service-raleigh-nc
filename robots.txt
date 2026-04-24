@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landscaping-service-raleigh-nc.netlify.app/sitemap.xml
